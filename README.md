@@ -1,7 +1,3 @@
-Flasky
-======
-
-This repository contains the archived source code examples for my O'Reilly book [Flask Web Development](http://www.flaskbook.com), first edition. For the code examples for the current edition of the book, go to [https://github.com/miguelgrinberg/flasky](https://github.com/miguelgrinberg/flasky).
-
-The commits and tags in this repository were carefully created to match the sequence in which concepts are presented in the book. Please read the section titled "How to Work with the Example Code" in the book's preface for instructions.
-
+说明：
+狗书第一版git checkout 17c部署成功的源码
+对接的账号是weicy@zkteco.com, app是flasky-password-weicy
